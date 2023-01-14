@@ -1,7 +1,7 @@
 // JavaScript básico para CRUD
 
 /*
-Projeto visa o conhecer os comando básicos em JavaScript
+Projeto visa conhecer os comando básicos em JavaScript
 para o entendimento de CRUD. Para analisar melhor comente e descomente a chamada das funções
 */ 
 
