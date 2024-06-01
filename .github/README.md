@@ -1,4 +1,4 @@
-<h1 align="center"> Javascript CRUD </h1>
+<h1 align="center"> Javascript Iniciante ao Avançado</h1>
 
 <br/>
 
@@ -12,11 +12,7 @@ Esse projeto foi desenvolvido com a seguinte tecnologia:
 
 ## 💻 Projeto
 
-Principal objetivo é conhecer os principais métodos de Javascript para o entendimento de um CRUD simples. 
-<br/>
-
-## 😎 Aprendizado
-Melhor entendimento da linguagem e como manusear arrays e objetos em Javascript
+Principal objetivo é conhecer a linguagem Javascript. Desde fundamentos até conceitos avançados. 
 <br/>
 
 ## Licença
