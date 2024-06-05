@@ -48,6 +48,9 @@ function criaPost(dados){
 // chama função criaPost enviando um objeto como parâmetro
 criaPost({owner: 'leonardoperes', content:'Segundo post'});
 criaPost({owner: 'leonardoperes', content:'Terceiro post'});
+criaPost({owner: 'leonardoperes', content:'Quarto post'});
+criaPost({owner: 'leonardoperes', content:'Quinto post'});
+criaPost({owner: 'leonardoperes', content:'Sexto post'});
 //console.log(miniRedeSocial.posts);
 
 // READ
